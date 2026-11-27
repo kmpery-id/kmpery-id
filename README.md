@@ -17,7 +17,9 @@ Mahasiswa yang suka mengubah masalah sehari-hari menjadi aplikasi web: dari penc
 
 ## 🚀 Project
 
-> Project bertanda ▶️ **Coba Demo** bisa langsung dicoba di browser, tanpa login dan tanpa instalasi.
+> Project bertanda ▶️ **Coba Demo** bisa langsung dicoba di browser, tanpa instalasi dan tanpa server.
+
+---
 
 ### 📦 [Aplikasi Stok Opname & Inventaris](https://github.com/kmpery-id/stok-opname-pwa)
 <a href="https://github.com/kmpery-id/stok-opname-pwa"><img src="https://raw.githubusercontent.com/kmpery-id/stok-opname-pwa/main/screenshots/opname.png" width="600" alt="Stok Opname"></a>
@@ -26,12 +28,24 @@ Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel,
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite` `PWA`
 <br>▶️ **[Coba Demo](https://kmpery-id.github.io/stok-opname-pwa/)** · 👉 [Lihat project](https://github.com/kmpery-id/stok-opname-pwa)
 
+<br>
+
+---
+
+<br>
+
 ### 🔧 [E-Service: Manajemen Servis Komputer](https://github.com/kmpery-id/e-service-servis-komputer) · *Project Capstone*
 <a href="https://github.com/kmpery-id/e-service-servis-komputer"><img src="https://raw.githubusercontent.com/kmpery-id/e-service-servis-komputer/main/screenshots/dashboard.png" width="600" alt="E-Service"></a>
 
 Sistem pencatatan servis dari barang masuk, diagnosis teknisi, persetujuan pelanggan, hingga selesai. Pelanggan bisa melacak progres servis dari HP.
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite`
 <br>▶️ **[Coba Demo](https://kmpery-id.github.io/e-service-servis-komputer/)** · 👉 [Lihat project](https://github.com/kmpery-id/e-service-servis-komputer)
+
+<br>
+
+---
+
+<br>
 
 ### 🛍️ [Katalog Produk Digital](https://github.com/kmpery-id/katalog-produk-digital) · *Tugas Kuliah*
 <a href="https://github.com/kmpery-id/katalog-produk-digital"><img src="https://raw.githubusercontent.com/kmpery-id/katalog-produk-digital/main/screenshots/compare.png" width="600" alt="Katalog Produk Digital"></a>
@@ -40,6 +54,12 @@ Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk, vi
 <br>`Laravel` `Blade` `Tailwind` `Alpine.js` `MySQL`
 <br>👉 [Lihat project](https://github.com/kmpery-id/katalog-produk-digital)
 
+<br>
+
+---
+
+<br>
+
 ### 💌 [Undangan Pernikahan Digital + RSVP](https://github.com/kmpery-id/undangan-pernikahan-digital)
 <a href="https://github.com/kmpery-id/undangan-pernikahan-digital"><img src="https://raw.githubusercontent.com/kmpery-id/undangan-pernikahan-digital/main/screenshots/desktop.png" width="600" alt="Undangan Pernikahan Digital"></a>
 
@@ -47,12 +67,20 @@ Undangan online bernuansa adat Makassar dengan RSVP, ucapan tamu yang muncul *re
 <br>`React` `TypeScript` `Tailwind` `Framer Motion` `Express` `MongoDB` `Socket.IO`
 <br>👉 [Lihat project](https://github.com/kmpery-id/undangan-pernikahan-digital)
 
+<br>
+
+---
+
+<br>
+
 ### 🎓 [Registrasi Mahasiswa](https://github.com/kmpery-id/registrasi-mahasiswa-laravel) · *Tugas Kuliah*
 <a href="https://github.com/kmpery-id/registrasi-mahasiswa-laravel"><img src="https://raw.githubusercontent.com/kmpery-id/registrasi-mahasiswa-laravel/main/screenshots/dashboard.png" width="600" alt="Registrasi Mahasiswa"></a>
 
 Aplikasi registrasi mahasiswa dengan login admin dan pembatasan akses berdasarkan peran (middleware role).
 <br>`Laravel` `Blade` `Tailwind` `MySQL`
 <br>👉 [Lihat project](https://github.com/kmpery-id/registrasi-mahasiswa-laravel)
+
+---
 
 ## 🧰 Teknologi yang Saya Pakai
 
