@@ -17,14 +17,14 @@ Mahasiswa yang suka mengubah masalah sehari-hari menjadi aplikasi web: dari penc
 
 ## 🚀 Project
 
-> Demo yang bisa langsung dicoba di browser **sedang disiapkan**.
+> Project bertanda ▶️ **Coba Demo** bisa langsung dicoba di browser, tanpa login dan tanpa instalasi.
 
 ### 📦 [Aplikasi Stok Opname & Inventaris](https://github.com/kmpery-id/stok-opname-pwa)
 <a href="https://github.com/kmpery-id/stok-opname-pwa"><img src="https://raw.githubusercontent.com/kmpery-id/stok-opname-pwa/main/screenshots/opname.png" width="600" alt="Stok Opname"></a>
 
 Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel, pencarian barang cepat, dan bisa dipasang seperti aplikasi (PWA).
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite` `PWA`
-<br>👉 [Lihat project](https://github.com/kmpery-id/stok-opname-pwa) · 🔜 *Demo segera hadir*
+<br>▶️ **[Coba Demo](https://kmpery-id.github.io/stok-opname-pwa/)** · 👉 [Lihat project](https://github.com/kmpery-id/stok-opname-pwa)
 
 ### 🔧 [E-Service: Manajemen Servis Komputer](https://github.com/kmpery-id/e-service-servis-komputer) · *Project Capstone*
 <a href="https://github.com/kmpery-id/e-service-servis-komputer"><img src="https://raw.githubusercontent.com/kmpery-id/e-service-servis-komputer/main/screenshots/dashboard.png" width="600" alt="E-Service"></a>
