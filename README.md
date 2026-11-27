@@ -33,19 +33,24 @@ Sistem pencatatan servis dari barang masuk, diagnosis teknisi, persetujuan pelan
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite`
 <br>👉 [Lihat project](https://github.com/kmpery-id/e-service-servis-komputer) · 🔜 *Demo segera hadir*
 
-### 🛍️ Katalog Produk Digital · *Tugas Kuliah*
-Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk dan video pendek produk.
+### 🛍️ [Katalog Produk Digital](https://github.com/kmpery-id/katalog-produk-digital) · *Tugas Kuliah*
+<a href="https://github.com/kmpery-id/katalog-produk-digital"><img src="https://raw.githubusercontent.com/kmpery-id/katalog-produk-digital/main/screenshots/compare.png" width="600" alt="Katalog Produk Digital"></a>
+
+Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk, video pendek (shorts) produk, dan panel pengelola.
 <br>`Laravel` `Blade` `Tailwind` `Alpine.js` `MySQL`
-<br>🔜 *Demo segera hadir*
+<br>👉 [Lihat project](https://github.com/kmpery-id/katalog-produk-digital)
 
 ### 💌 Undangan Pernikahan Digital + RSVP
 Undangan online dengan buku tamu dan konfirmasi kehadiran (RSVP) yang langsung terekap.
 <br>`React` `TypeScript` `Vite` `Express`
 <br>🔜 *Demo segera hadir*
 
-### 🎓 Registrasi Mahasiswa · *Tugas Kuliah*
+### 🎓 [Registrasi Mahasiswa](https://github.com/kmpery-id/registrasi-mahasiswa-laravel) · *Tugas Kuliah*
+<a href="https://github.com/kmpery-id/registrasi-mahasiswa-laravel"><img src="https://raw.githubusercontent.com/kmpery-id/registrasi-mahasiswa-laravel/main/screenshots/dashboard.png" width="600" alt="Registrasi Mahasiswa"></a>
+
 Aplikasi registrasi mahasiswa dengan login admin dan pembatasan akses berdasarkan peran (middleware role).
-<br>`Laravel` `Blade`
+<br>`Laravel` `Blade` `Tailwind` `MySQL`
+<br>👉 [Lihat project](https://github.com/kmpery-id/registrasi-mahasiswa-laravel)
 
 ## 🧰 Teknologi yang Saya Pakai
 
