@@ -62,4 +62,4 @@ Aplikasi registrasi mahasiswa dengan login admin dan pembatasan akses berdasarka
 
 Mau ngobrol soal project atau sekadar menyapa? Kirim pesan lewat Instagram **[@perrikembali](https://www.instagram.com/perrikembali)**.
 
-<p align="center"><i>Makassar, Indonesia</i></p>
+<p align="center"><i>Makassar, Sulawesi-Selatan,Indonesia</i></p>
