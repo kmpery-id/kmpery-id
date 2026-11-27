@@ -1,49 +1,35 @@
 <h1 align="center">Halo, saya Km Pery Permana 👋</h1>
 <p align="center">
-  <b>Web Developer · Makassar, Indonesia</b><br>
-  Saya membuat aplikasi web yang benar-benar dipakai untuk menjalankan usaha:<br>
-  stok &amp; inventaris, manajemen servis, katalog produk, dan website.
+  <b>Mahasiswa · Web Developer · Makassar, Indonesia</b><br>
+  Senang membangun aplikasi web dari ide sampai bisa dipakai.<br>
+  Di sini saya mendokumentasikan project dan proses belajar saya.
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/perrikembali"><img src="https://img.shields.io/badge/Instagram-perrikembali-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <img src="https://img.shields.io/badge/Status-Terbuka_untuk_Freelance-2ea44f?style=for-the-badge" alt="Open for freelance">
 </p>
 
 ---
 
 ## 🧑‍💻 Tentang Saya
 
-Mahasiswa sekaligus web developer yang fokus membantu **usaha kecil dan menengah (UMKM)** beralih dari catatan manual dan Excel ke aplikasi yang rapi, cepat, dan mudah dipakai, bahkan cukup lewat HP.
+Mahasiswa yang suka mengubah masalah sehari-hari menjadi aplikasi web: dari pencatatan stok gudang, manajemen servis, katalog produk, sampai undangan digital. Sebagian besar project di sini berawal dari tugas kuliah dan kebutuhan nyata di sekitar saya.
 
-Prinsip kerja saya sederhana: **masalah bisnisnya dulu, teknologinya belakangan.**
+## 🚀 Project
 
-## 🛠️ Layanan
-
-| Layanan | Cocok untuk |
-|---|---|
-| 📦 **Aplikasi Stok & Inventaris** | Toko, gudang, apotek, distributor |
-| 🔧 **Sistem Servis & Booking** | Servis komputer/HP, bengkel, klinik |
-| 🛍️ **Katalog Produk Online** | Toko yang ingin pamer produk tanpa marketplace |
-| 💌 **Undangan Digital + RSVP** | Pernikahan, acara, wisuda |
-| 🌐 **Website Profil Usaha** | UMKM, komunitas, instansi |
-
-## 🚀 Project Pilihan
-
-> Demo online yang bisa langsung dicoba di browser **sedang disiapkan**.
-> Sementara itu, saya bisa memberikan demo langsung lewat panggilan video atau tatap muka di Makassar.
+> Demo yang bisa langsung dicoba di browser **sedang disiapkan**.
 
 ### 📦 Aplikasi Stok Opname & Inventaris
-Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel, pencarian barang super cepat, dan bisa dipasang seperti aplikasi (PWA).
+Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel, pencarian barang cepat, dan bisa dipasang seperti aplikasi (PWA).
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite` `PWA`
 <br>🔜 *Demo segera hadir*
 
-### 🔧 E-Service: Manajemen Servis Komputer
+### 🔧 E-Service: Manajemen Servis Komputer · *Project Capstone*
 Sistem pencatatan servis dari barang masuk, proses perbaikan, hingga selesai, lengkap dengan penilaian pelayanan dari pelanggan.
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite`
 <br>🔜 *Demo segera hadir*
 
-### 🛍️ Katalog Produk Digital
+### 🛍️ Katalog Produk Digital · *Tugas Kuliah*
 Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk dan video pendek produk.
 <br>`Laravel` `Blade` `Tailwind` `Alpine.js` `MySQL`
 <br>🔜 *Demo segera hadir*
@@ -53,7 +39,11 @@ Undangan online dengan buku tamu dan konfirmasi kehadiran (RSVP) yang langsung t
 <br>`React` `TypeScript` `Vite` `Express`
 <br>🔜 *Demo segera hadir*
 
-## 🧰 Teknologi
+### 🎓 Registrasi Mahasiswa · *Tugas Kuliah*
+Aplikasi registrasi mahasiswa dengan login admin dan pembatasan akses berdasarkan peran (middleware role).
+<br>`Laravel` `Blade`
+
+## 🧰 Teknologi yang Saya Pakai
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -68,17 +58,8 @@ Undangan online dengan buku tamu dan konfirmasi kehadiran (RSVP) yang langsung t
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA">
 </p>
 
-## 🤝 Cara Kerja Sama
+## 📬 Kontak
 
-1. **Konsultasi gratis**: ceritakan masalah usaha Anda.
-2. **Demo & penawaran**: saya tunjukkan contoh aplikasi yang mirip dan estimasi biaya yang jelas.
-3. **Pengerjaan**: progres bisa dipantau, revisi dibahas bersama.
-4. **Serah terima & pendampingan**: pelatihan pemakaian dan dukungan setelah aplikasi berjalan.
+Mau ngobrol soal project atau sekadar menyapa? Kirim pesan lewat Instagram **[@perrikembali](https://www.instagram.com/perrikembali)**.
 
-> Data usaha Anda tetap milik Anda, dan bisa diekspor kapan saja.
-
-## 📬 Hubungi Saya
-
-Tertarik atau sekadar ingin bertanya? Kirim pesan lewat Instagram **[@perrikembali](https://www.instagram.com/perrikembali)**.
-
-<p align="center"><i>Makassar, Indonesia · Terbuka untuk project freelance & kolaborasi</i></p>
+<p align="center"><i>Makassar, Indonesia</i></p>
