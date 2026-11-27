@@ -31,7 +31,7 @@ Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel,
 
 Sistem pencatatan servis dari barang masuk, diagnosis teknisi, persetujuan pelanggan, hingga selesai. Pelanggan bisa melacak progres servis dari HP.
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite`
-<br>👉 [Lihat project](https://github.com/kmpery-id/e-service-servis-komputer) · 🔜 *Demo segera hadir*
+<br>▶️ **[Coba Demo](https://kmpery-id.github.io/e-service-servis-komputer/)** · 👉 [Lihat project](https://github.com/kmpery-id/e-service-servis-komputer)
 
 ### 🛍️ [Katalog Produk Digital](https://github.com/kmpery-id/katalog-produk-digital) · *Tugas Kuliah*
 <a href="https://github.com/kmpery-id/katalog-produk-digital"><img src="https://raw.githubusercontent.com/kmpery-id/katalog-produk-digital/main/screenshots/compare.png" width="600" alt="Katalog Produk Digital"></a>
