@@ -19,15 +19,19 @@ Mahasiswa yang suka mengubah masalah sehari-hari menjadi aplikasi web: dari penc
 
 > Demo yang bisa langsung dicoba di browser **sedang disiapkan**.
 
-### 📦 Aplikasi Stok Opname & Inventaris
+### 📦 [Aplikasi Stok Opname & Inventaris](https://github.com/kmpery-id/stok-opname-pwa)
+<a href="https://github.com/kmpery-id/stok-opname-pwa"><img src="https://raw.githubusercontent.com/kmpery-id/stok-opname-pwa/main/screenshots/opname.png" width="600" alt="Stok Opname"></a>
+
 Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel, pencarian barang cepat, dan bisa dipasang seperti aplikasi (PWA).
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite` `PWA`
-<br>🔜 *Demo segera hadir*
+<br>👉 [Lihat project](https://github.com/kmpery-id/stok-opname-pwa) · 🔜 *Demo segera hadir*
 
-### 🔧 E-Service: Manajemen Servis Komputer · *Project Capstone*
-Sistem pencatatan servis dari barang masuk, proses perbaikan, hingga selesai, lengkap dengan penilaian pelayanan dari pelanggan.
+### 🔧 [E-Service: Manajemen Servis Komputer](https://github.com/kmpery-id/e-service-servis-komputer) · *Project Capstone*
+<a href="https://github.com/kmpery-id/e-service-servis-komputer"><img src="https://raw.githubusercontent.com/kmpery-id/e-service-servis-komputer/main/screenshots/dashboard.png" width="600" alt="E-Service"></a>
+
+Sistem pencatatan servis dari barang masuk, diagnosis teknisi, persetujuan pelanggan, hingga selesai. Pelanggan bisa melacak progres servis dari HP.
 <br>`React` `TypeScript` `Tailwind` `Fastify` `SQLite`
-<br>🔜 *Demo segera hadir*
+<br>👉 [Lihat project](https://github.com/kmpery-id/e-service-servis-komputer) · 🔜 *Demo segera hadir*
 
 ### 🛍️ Katalog Produk Digital · *Tugas Kuliah*
 Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk dan video pendek produk.
