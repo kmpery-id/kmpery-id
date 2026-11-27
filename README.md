@@ -65,7 +65,7 @@ Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk, vi
 
 Undangan online bernuansa adat Makassar dengan RSVP, ucapan tamu yang muncul *real-time*, galeri, dan amplop digital.
 <br>`React` `TypeScript` `Tailwind` `Framer Motion` `Express` `MongoDB` `Socket.IO`
-<br>👉 [Lihat project](https://github.com/kmpery-id/undangan-pernikahan-digital)
+<br>▶️ **[Coba Demo](https://kmpery-id.github.io/undangan-pernikahan-digital/?to=bpk.budi%20santoso)** · 👉 [Lihat project](https://github.com/kmpery-id/undangan-pernikahan-digital)
 
 <br>
 
