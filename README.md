@@ -30,7 +30,7 @@ Hitung stok gudang dengan **scan barcode lewat kamera HP**, import/export Excel,
 
 <br>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="———"></p>
 
 <br>
 
@@ -43,7 +43,7 @@ Sistem pencatatan servis dari barang masuk, diagnosis teknisi, persetujuan pelan
 
 <br>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="———"></p>
 
 <br>
 
@@ -56,7 +56,7 @@ Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk, vi
 
 <br>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="———"></p>
 
 <br>
 
@@ -69,7 +69,7 @@ Undangan online bernuansa adat Makassar dengan RSVP, ucapan tamu yang muncul *re
 
 <br>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="———"></p>
 
 <br>
 
