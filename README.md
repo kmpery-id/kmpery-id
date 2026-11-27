@@ -40,10 +40,12 @@ Katalog toko komputer dengan fitur **perbandingan spesifikasi** antar produk, vi
 <br>`Laravel` `Blade` `Tailwind` `Alpine.js` `MySQL`
 <br>👉 [Lihat project](https://github.com/kmpery-id/katalog-produk-digital)
 
-### 💌 Undangan Pernikahan Digital + RSVP
-Undangan online dengan buku tamu dan konfirmasi kehadiran (RSVP) yang langsung terekap.
-<br>`React` `TypeScript` `Vite` `Express`
-<br>🔜 *Demo segera hadir*
+### 💌 [Undangan Pernikahan Digital + RSVP](https://github.com/kmpery-id/undangan-pernikahan-digital)
+<a href="https://github.com/kmpery-id/undangan-pernikahan-digital"><img src="https://raw.githubusercontent.com/kmpery-id/undangan-pernikahan-digital/main/screenshots/desktop.png" width="600" alt="Undangan Pernikahan Digital"></a>
+
+Undangan online bernuansa adat Makassar dengan RSVP, ucapan tamu yang muncul *real-time*, galeri, dan amplop digital.
+<br>`React` `TypeScript` `Tailwind` `Framer Motion` `Express` `MongoDB` `Socket.IO`
+<br>👉 [Lihat project](https://github.com/kmpery-id/undangan-pernikahan-digital)
 
 ### 🎓 [Registrasi Mahasiswa](https://github.com/kmpery-id/registrasi-mahasiswa-laravel) · *Tugas Kuliah*
 <a href="https://github.com/kmpery-id/registrasi-mahasiswa-laravel"><img src="https://raw.githubusercontent.com/kmpery-id/registrasi-mahasiswa-laravel/main/screenshots/dashboard.png" width="600" alt="Registrasi Mahasiswa"></a>
